@@ -43,4 +43,4 @@ streamlit run app.py
 
 ## Деплой
 
-Приложение задеплоено на Streamlit Community Cloud: *ссылка*
+Приложение задеплоено на Streamlit Community Cloud: [*ссылка*](https://wineapp-a4esnnzpyjhpbx5a6is3q5.streamlit.app/)
